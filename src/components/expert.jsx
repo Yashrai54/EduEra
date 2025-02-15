@@ -1,4 +1,4 @@
-import Blockchain from "C:\\Users\\starr\\OneDrive\\Documents\\Desktop\\my-project\\my-project\\src\\assets\\Blockchain.png"
+import Blockchain from '../assets/Blockchain.png'
 function Experts() {
     return (
         <div className=" max-w-[1240px] mx-auto my-10  h-[200px]  md:grid grid-cols-3">
